@@ -1,0 +1,32 @@
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.vbproj.GenerateResource.cache
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.vb
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\MICROSOFT\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Minggu 01\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll

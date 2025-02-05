@@ -1,0 +1,16 @@
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.exe
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.deps.json
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.runtimeconfig.json
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.dll
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\bin\Debug\net8.0-windows\Kalkulator.pdb
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.Form1.resources
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.dll
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\refint\Kalkulator.dll
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.pdb
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\Kalkulator.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Minggu 01\Kalkulator\obj\Debug\net8.0-windows\ref\Kalkulator.dll
