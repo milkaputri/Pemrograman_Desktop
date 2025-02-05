@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "no4_Pengamatan2/1.0.0": {
+        "runtime": {
+          "no4_Pengamatan2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "no4_Pengamatan2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

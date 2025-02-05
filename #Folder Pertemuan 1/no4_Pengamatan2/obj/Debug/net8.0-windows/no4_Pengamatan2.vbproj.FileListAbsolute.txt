@@ -1,0 +1,16 @@
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\bin\Debug\net8.0-windows\no4_Pengamatan2.exe
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\bin\Debug\net8.0-windows\no4_Pengamatan2.deps.json
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\bin\Debug\net8.0-windows\no4_Pengamatan2.runtimeconfig.json
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\bin\Debug\net8.0-windows\no4_Pengamatan2.dll
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\bin\Debug\net8.0-windows\no4_Pengamatan2.pdb
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.Form1.resources
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.dll
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\refint\no4_Pengamatan2.dll
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.pdb
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\no4_Pengamatan2.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Minggu 01\no4_Pengamatan2\obj\Debug\net8.0-windows\ref\no4_Pengamatan2.dll
