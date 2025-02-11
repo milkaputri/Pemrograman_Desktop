@@ -1,0 +1,16 @@
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\bin\Debug\net8.0-windows\Wallpaper Changer.exe
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\bin\Debug\net8.0-windows\Wallpaper Changer.deps.json
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\bin\Debug\net8.0-windows\Wallpaper Changer.runtimeconfig.json
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\bin\Debug\net8.0-windows\Wallpaper Changer.dll
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\bin\Debug\net8.0-windows\Wallpaper Changer.pdb
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.Form1.resources
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.dll
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\refint\Wallpaper Changer.dll
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.pdb
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\Wallpaper Changer.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Minggu 01\Wallpaper Changer\obj\Debug\net8.0-windows\ref\Wallpaper Changer.dll

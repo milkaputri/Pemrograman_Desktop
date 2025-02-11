@@ -1,0 +1,16 @@
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot_Huruf.Form1.resources
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\bin\Debug\net8.0-windows\Jackpot Huruf.exe
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\bin\Debug\net8.0-windows\Jackpot Huruf.deps.json
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\bin\Debug\net8.0-windows\Jackpot Huruf.runtimeconfig.json
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\bin\Debug\net8.0-windows\Jackpot Huruf.dll
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\bin\Debug\net8.0-windows\Jackpot Huruf.pdb
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.dll
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\refint\Jackpot Huruf.dll
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.pdb
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\Jackpot Huruf.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Minggu 01\Jackpot Huruf\obj\Debug\net8.0-windows\ref\Jackpot Huruf.dll

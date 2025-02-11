@@ -1,0 +1,16 @@
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.exe
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.deps.json
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.runtimeconfig.json
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.dll
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\bin\Debug\net8.0-windows\MineSweeperGenerator.pdb
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.Form1.resources
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.dll
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\refint\MineSweeperGenerator.dll
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.pdb
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\ref\MineSweeperGenerator.dll
