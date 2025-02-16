@@ -1,0 +1,21 @@
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.exe
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.deps.json
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.runtimeconfig.json
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.dll
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.pdb
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack_A_Mole.Form1.resources
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack_A_Mole.Form2.resources
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack_A_Mole.Resources.resources
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.dll
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\refint\Whack A Mole.dll
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.pdb
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\obj\Debug\net8.0-windows\ref\Whack A Mole.dll
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Asset\Clear.wav
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Asset\Kena.wav
+D:\Pemrograman Dekstop\Tugas 01\Whack A Mole\bin\Debug\net8.0-windows\Asset\Meleset.wav

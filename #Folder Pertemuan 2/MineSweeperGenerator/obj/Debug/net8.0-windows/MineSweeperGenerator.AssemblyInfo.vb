@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MineSweeperGenerator"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dcf741807f1ed5fee0e354d77da18f770a56456"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MineSweeperGenerator"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MineSweeperGenerator"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

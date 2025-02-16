@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pemrograman Dekstop\\Minggu 01\\MineSweeperGenerator\\MineSweeperGenerator.vbproj",
+      "projectUniqueName": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 2\\MineSweeperGenerator\\MineSweeperGenerator.vbproj",
       "projectName": "MineSweeperGenerator",
-      "projectPath": "D:\\Pemrograman Dekstop\\Minggu 01\\MineSweeperGenerator\\MineSweeperGenerator.vbproj",
+      "projectPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 2\\MineSweeperGenerator\\MineSweeperGenerator.vbproj",
       "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-      "outputPath": "D:\\Pemrograman Dekstop\\Minggu 01\\MineSweeperGenerator\\obj\\",
+      "outputPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 2\\MineSweeperGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

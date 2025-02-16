@@ -14,3 +14,13 @@ D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\r
 D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.pdb
 D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.genruntimeconfig.cache
 D:\Pemrograman Dekstop\Minggu 01\MineSweeperGenerator\obj\Debug\net8.0-windows\ref\MineSweeperGenerator.dll
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.Form1.resources
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.sourcelink.json
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.dll
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\refint\MineSweeperGenerator.dll
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 2\MineSweeperGenerator\obj\Debug\net8.0-windows\MineSweeperGenerator.pdb
