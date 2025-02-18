@@ -1,0 +1,22 @@
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\bin\Debug\net8.0-windows\Pemesanan Tempat Duduk.exe
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\bin\Debug\net8.0-windows\Pemesanan Tempat Duduk.deps.json
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\bin\Debug\net8.0-windows\Pemesanan Tempat Duduk.runtimeconfig.json
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\bin\Debug\net8.0-windows\Pemesanan Tempat Duduk.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\bin\Debug\net8.0-windows\Pemesanan Tempat Duduk.pdb
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Form1.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Resources.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.vbproj.GenerateResource.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.AssemblyInfoInputs.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.AssemblyInfo.vb
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.vbproj.CoreCompileInputs.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\refint\Pemesanan Tempat Duduk.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.pdb
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan Tempat Duduk.genruntimeconfig.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\ref\Pemesanan Tempat Duduk.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Form2.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Form3.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Form4.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Form5.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 03\Latihan\Pemesanan Tempat Duduk\obj\Debug\net8.0-windows\Pemesanan_Tempat_Duduk.Form6.resources
