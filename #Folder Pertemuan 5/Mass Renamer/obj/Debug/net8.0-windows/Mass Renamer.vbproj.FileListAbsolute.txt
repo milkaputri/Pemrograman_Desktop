@@ -1,0 +1,16 @@
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.exe
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.deps.json
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.runtimeconfig.json
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.pdb
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass_Renamer.Form1.resources
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.GenerateResource.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfoInputs.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfo.vb
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.CoreCompileInputs.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\refint\Mass Renamer.dll
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.pdb
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.genruntimeconfig.cache
+C:\Users\M S I\Documents\MILKA\KULIAH\SEMESTER 6\PROGDESK\Minggu 05\Mass Renamer\obj\Debug\net8.0-windows\ref\Mass Renamer.dll

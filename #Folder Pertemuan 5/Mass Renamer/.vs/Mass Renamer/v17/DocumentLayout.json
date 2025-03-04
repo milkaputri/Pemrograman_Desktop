@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE0E051-EFBA-4AB9-AF3A-23A428DC6452}|Mass Renamer.vbproj|c:\\users\\m s i\\documents\\milka\\kuliah\\semester 6\\progdesk\\minggu 05\\mass renamer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6FE0E051-EFBA-4AB9-AF3A-23A428DC6452}|Mass Renamer.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE0E051-EFBA-4AB9-AF3A-23A428DC6452}|Mass Renamer.vbproj|c:\\users\\m s i\\documents\\milka\\kuliah\\semester 6\\progdesk\\minggu 05\\mass renamer\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6FE0E051-EFBA-4AB9-AF3A-23A428DC6452}|Mass Renamer.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T16:24:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-04T00:47:26.935Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
