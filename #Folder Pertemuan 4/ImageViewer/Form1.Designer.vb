@@ -308,13 +308,12 @@ Partial Class ImageViewer
         ' 
         ' ImageViewer
         ' 
-        AutoScaleDimensions = New SizeF(8.0F, 20.0F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
         Controls.Add(SplitContainerUtama)
         Controls.Add(StatusStrip1)
         Name = "ImageViewer"
-        Text = "ImageViewer"
         StatusStrip1.ResumeLayout(False)
         StatusStrip1.PerformLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

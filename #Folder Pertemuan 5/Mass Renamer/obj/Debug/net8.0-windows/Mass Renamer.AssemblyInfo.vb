@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Mass Renamer"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ddf698ac8134c0c887b04799ab29bc6caf39d7d"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Mass Renamer"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Mass Renamer"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

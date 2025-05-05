@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb*",
-              "RelativeToolTip": "Form1.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8BAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-04T16:24:27.554Z",
               "EditorCaption": ""
@@ -39,15 +43,11 @@
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb [Design]*",
-              "RelativeToolTip": "Form1.vb [Design]*",
+              "ToolTip": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\Mass Renamer\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-04T00:47:26.935Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }

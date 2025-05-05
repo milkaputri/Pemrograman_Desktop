@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\MP3TagEditor\\MP3TagEditor.vbproj",
+      "projectUniqueName": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 5\\MP3TagEditor\\MP3TagEditor.vbproj",
       "projectName": "MP3TagEditor",
-      "projectPath": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\MP3TagEditor\\MP3TagEditor.vbproj",
+      "projectPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 5\\MP3TagEditor\\MP3TagEditor.vbproj",
       "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M S I\\Documents\\MILKA\\KULIAH\\SEMESTER 6\\PROGDESK\\Minggu 05\\MP3TagEditor\\obj\\",
+      "outputPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 5\\MP3TagEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
