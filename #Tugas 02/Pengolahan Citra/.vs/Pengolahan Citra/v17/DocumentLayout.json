@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\pengolahan citra.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\pengolahan citra.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 02\\pengolahan citra\\pengolahan citra\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C5085755-3681-40A0-B857-018E5EC7172B}|Pengolahan Citra\\Pengolahan Citra.vbproj|solutionrelative:pengolahan citra\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 757,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form1.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form1.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form1.vb [Design]",
+              "RelativeToolTip": "Pengolahan Citra\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T00:51:50.778Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form2.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form2.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form2.vb [Design]",
+              "RelativeToolTip": "Pengolahan Citra\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:07:29.786Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form3.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form3.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form3.vb [Design]",
+              "RelativeToolTip": "Pengolahan Citra\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T10:48:14.043Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form4.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form4.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form4.vb [Design]",
+              "RelativeToolTip": "Pengolahan Citra\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T10:54:04.33Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form5.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form5.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form5.vb [Design]",
+              "RelativeToolTip": "Pengolahan Citra\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T11:06:10.858Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form1.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form1.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form1.vb",
+              "RelativeToolTip": "Pengolahan Citra\\Form1.vb",
+              "ViewState": "AgIAAJkAAAAAAAAAAADwv6kAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:22:02.865Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form2.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form2.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form2.vb",
+              "RelativeToolTip": "Pengolahan Citra\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:14:58.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form5.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form5.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form5.vb",
+              "RelativeToolTip": "Pengolahan Citra\\Form5.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T11:13:03.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form4.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form4.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form4.vb",
+              "RelativeToolTip": "Pengolahan Citra\\Form4.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T11:08:18.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form3.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Form3.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Form3.vb",
+              "RelativeToolTip": "Pengolahan Citra\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-12T11:08:05.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pengolahan Citra.vbproj",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Pengolahan Citra.vbproj",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\Pengolahan Citra.vbproj",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\Pengolahan Citra.vbproj",
+              "RelativeToolTip": "Pengolahan Citra\\Pengolahan Citra.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-05-06T01:07:16.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Pengolahan Citra\\My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 02\\Pengolahan Citra\\Pengolahan Citra\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Pengolahan Citra\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-06T01:18:04.036Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
