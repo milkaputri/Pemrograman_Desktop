@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C265CB16-27CE-40C4-B832-D6BE01126285}|Pengolahan Vektor\\Pengolahan Vektor.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#folder pertemuan 12\\pengolahan vektor\\pengolahan vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C265CB16-27CE-40C4-B832-D6BE01126285}|Pengolahan Vektor\\Pengolahan Vektor.vbproj|solutionrelative:pengolahan vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C265CB16-27CE-40C4-B832-D6BE01126285}|Pengolahan Vektor\\Pengolahan Vektor.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#folder pertemuan 12\\pengolahan vektor\\pengolahan vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C265CB16-27CE-40C4-B832-D6BE01126285}|Pengolahan Vektor\\Pengolahan Vektor.vbproj|solutionrelative:pengolahan vektor\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C265CB16-27CE-40C4-B832-D6BE01126285}|Pengolahan Vektor\\Pengolahan Vektor.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#folder pertemuan 12\\pengolahan vektor\\pengolahan vektor\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C265CB16-27CE-40C4-B832-D6BE01126285}|Pengolahan Vektor\\Pengolahan Vektor.vbproj|solutionrelative:pengolahan vektor\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 757,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\Pengolahan Vektor\\Form1.vb",
+              "RelativeDocumentMoniker": "Pengolahan Vektor\\Form1.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\Pengolahan Vektor\\Form1.vb [Design]",
+              "RelativeToolTip": "Pengolahan Vektor\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T00:50:27.039Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\Pengolahan Vektor\\Form1.vb",
+              "RelativeDocumentMoniker": "Pengolahan Vektor\\Form1.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\Pengolahan Vektor\\Form1.vb",
+              "RelativeToolTip": "Pengolahan Vektor\\Form1.vb",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAwwA4BAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T01:16:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\Pengolahan Vektor\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Pengolahan Vektor\\My Project\\Application.Designer.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Folder Pertemuan 12\\Pengolahan Vektor\\Pengolahan Vektor\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Pengolahan Vektor\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-13T01:53:43.784Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

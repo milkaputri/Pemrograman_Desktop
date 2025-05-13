@@ -1,0 +1,18 @@
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan_Vektor.frmUtama.resources
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan_Vektor.Resources.resources
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.vbproj.GenerateResource.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.AssemblyInfoInputs.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.AssemblyInfo.vb
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.vbproj.CoreCompileInputs.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.sourcelink.json
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\bin\Debug\net8.0-windows\Pengolahan Vektor.exe
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\bin\Debug\net8.0-windows\Pengolahan Vektor.deps.json
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\bin\Debug\net8.0-windows\Pengolahan Vektor.runtimeconfig.json
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\bin\Debug\net8.0-windows\Pengolahan Vektor.dll
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\bin\Debug\net8.0-windows\Pengolahan Vektor.pdb
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.dll
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\refint\Pengolahan Vektor.dll
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.pdb
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\Pengolahan Vektor.genruntimeconfig.cache
+D:\Pemrograman Dekstop\Pemrograman_Desktop\#Folder Pertemuan 12\Pengolahan Vektor\Pengolahan Vektor\obj\Debug\net8.0-windows\ref\Pengolahan Vektor.dll
