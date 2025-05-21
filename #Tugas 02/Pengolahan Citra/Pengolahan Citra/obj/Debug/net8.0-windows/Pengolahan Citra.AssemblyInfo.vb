@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Pengolahan Citra"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+498f879720f3087ee073b5311ebcbae29bde6c6c"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d917f5f1040583f32d18de45f25e3f2f72cc51"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Pengolahan Citra"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Pengolahan Citra"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
