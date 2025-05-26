@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sliper.io", "Sliper.io\Sliper.io.vbproj", "{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218B7371-B3A2-426C-A85D-697D1EBF78A3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|d:\\pemrograman dekstop\\pemrograman_desktop\\#tugas 04\\sliper.io\\sliper.io\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0ED55D70-CAED-4F4C-9B52-E72BDC734E96}|Sliper.io\\Sliper.io.vbproj|solutionrelative:sliper.io\\form3.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 757,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form1.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form1.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form1.vb [Design]",
+              "RelativeToolTip": "Sliper.io\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T04:31:26.965Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form2.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form2.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form2.vb [Design]",
+              "RelativeToolTip": "Sliper.io\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T04:51:09.423Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form3.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form3.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form3.vb [Design]",
+              "RelativeToolTip": "Sliper.io\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T05:00:41.264Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form1.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form1.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form1.vb",
+              "RelativeToolTip": "Sliper.io\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T05:19:38.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form2.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form2.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form2.vb",
+              "RelativeToolTip": "Sliper.io\\Form2.vb",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAlwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T05:19:50.265Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form3.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form3.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form3.vb",
+              "RelativeToolTip": "Sliper.io\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T05:14:07.912Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.Designer.vb",
+              "DocumentMoniker": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form3.Designer.vb",
+              "RelativeDocumentMoniker": "Sliper.io\\Form3.Designer.vb",
+              "ToolTip": "D:\\Pemrograman Dekstop\\Pemrograman_Desktop\\#Tugas 04\\Sliper.io\\Sliper.io\\Form3.Designer.vb",
+              "RelativeToolTip": "Sliper.io\\Form3.Designer.vb",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-22T06:22:50.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1550,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
